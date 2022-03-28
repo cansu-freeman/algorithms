@@ -7,7 +7,7 @@ In this repository:
 ### Sorting Algorithms
 - [Selection Sort](/sorting_algorithms/selection_sort.py)
 - [Insertion Sort](/sorting_algorithms/insertion_sort.py)
-- [Shell Sort]((/sorting_algorithms/shell_sort.py)
+- [Shell Sort](/sorting_algorithms/shell_sort.py)
 - Merge Sort
 - Top-Down Merge Sort
 - Bottom-Up Merge Sort
